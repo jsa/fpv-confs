@@ -1,0 +1,5 @@
+#!nsh
+
+# constantly detects landing mid-air...
+land_detector stop
+echo "INFO  [init] extras.txt: stopped land_detector"
